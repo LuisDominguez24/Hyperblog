@@ -1,13 +1,13 @@
 body{
     color: black;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
 }
 #cabecera
 {
-    background: #33a;
+    background: rgb(130, 130, 197);
     color: white;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 75);
     margin: 0;
