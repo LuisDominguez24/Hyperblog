@@ -12,6 +12,7 @@ Un blog increíble para el curso de [Git y Github](https://platzi.com/clases/git
 * Las personalidades múltiples de Freddy
 * Creado por el increible Platzi Team
 * incluye ejemplos en windows linuz y MAC
+* Disponible para todas las edades 
 
 Creado por el increíble Platzi Team
 Incluye ejemplos en Windows, Linux y Mac
